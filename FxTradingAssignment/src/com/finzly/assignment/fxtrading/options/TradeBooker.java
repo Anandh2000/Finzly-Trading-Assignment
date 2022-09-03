@@ -60,13 +60,13 @@ public class TradeBooker {
 	//calculates the amount
 	private double amountCalculator(){
 		try {
-		amount = sc.nextDouble();
-		if(amount<=0) {
-			throw new InputMismatchException();
-		}
-		else {
-			return amount*rate;
-		}
+			amount = sc.nextDouble();
+			if(amount<=0) {
+				throw new InputMismatchException();
+			}
+			else {
+				return amount*rate;
+			}
 		}
 		catch(Exception e){ 
 			System.out.println("Enter the correct value of amount ");
