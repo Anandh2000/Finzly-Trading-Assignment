@@ -1,2 +1,3 @@
-# Finzly-Trading-Assignment
-Foreign Exchange Trade
+Finzly-Trading-Assignment
+# Foreign Exchange Trade
+
