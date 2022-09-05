@@ -36,7 +36,7 @@ Do you want to get Rate
 
 	Yes
 
-You are transferring INR 66,0000 to John M.( Assuming that rate was 66.00)
+You are transferring INR 66,000 to John M.( Assuming that rate was 66.00)
 
 Book/Cancel this trade?
 
